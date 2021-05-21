@@ -1,0 +1,14 @@
+.children{
+    background-color: navajowhite;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+.callout{
+    background-color: skyblue;
+    border: 2px solid blue;
+    border-radius: 1px;
+    padding: 50px;
+    margin: 10px;
+}
